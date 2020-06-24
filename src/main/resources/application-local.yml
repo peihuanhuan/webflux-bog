@@ -1,0 +1,18 @@
+server:
+  port: 8999
+
+spring:
+  data:
+    mongodb:
+      host: 118.24.62.141
+      port: 27017
+      database: blog
+
+site:
+  file: https://file.peihuan.net/blogfiles/
+
+path:
+  hexo: /Users/peihuan/myblog
+  file: /Users/peihuan/files/blogfiles/
+
+

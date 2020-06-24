@@ -1,0 +1,4 @@
+log_home: /var/blog-api/logs
+portal_log_name: blog-api
+
+max_file_size: 1GB

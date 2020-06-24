@@ -1,0 +1,4 @@
+log_home: /Users/peihuan/myblog/logs
+portal_log_name: blog-api
+
+max_file_size: 1GB
